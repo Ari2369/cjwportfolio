@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <title>崔静雯的作品集</title>
@@ -7,7 +6,7 @@
             margin: 0;
             padding: 0;
             height: 100%;
-            background-color: #f5f5f5; /* 可选，背景色 */
+            background-color: #f5f5f5; 
         }
 
         .header {
