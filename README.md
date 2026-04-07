@@ -1,3 +1,6 @@
+.site-header, .site-title, .page-header {
+    display: none !important;
+}
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -11,11 +14,10 @@
         }
 
         body {
-            background: #f0f2f5;  /* 柔和背景色 */
+            background: #f0f2f5; 
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
         }
 
-        /* 自定义头部 – 美观且不干扰PDF */
         .hero {
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
