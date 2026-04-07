@@ -38,6 +38,6 @@
         <h1>崔静雯的作品集</h1>
         <p>感谢查看我的作品集(*^▽^*)</p>
     </div>
-    <iframe src="UXportfolio.pdf"></iframe>
+   <iframe src="UXportfolio.pdf#toolbar=0&navpanes=0&scrollbar=1&view=FitW&zoom=page-width"></iframe>
 </body>
 </html>
